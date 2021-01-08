@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-mong qua môn
+
 namespace banhkem
 {
     public partial class Frm_Main : Form
